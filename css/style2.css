@@ -54,4 +54,14 @@ button{
     border-radius: 15px;
     font-size: 24px;
 }
-
+.esquerda{
+    border-collapse: collapse;
+    float: right;
+    text-align: right !important;
+   
+}
+.centro{
+    border-collapse: collapse;
+    float: center;
+    text-align: center !important;    
+}
