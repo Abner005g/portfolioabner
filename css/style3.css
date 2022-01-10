@@ -1,14 +1,16 @@
 body {
     margin: 0;
-    background-image: url(fundositetres.gif);
+    background-image: url(fundotesteum.gif);
     background-size: cover;
     background-repeat: no-repeat
 }
 
 h1{
-    color: white; 
-    background-color: rgba(0,0,0,0.8);
-    font-size: 40px ;
+    color: mediumspringgreen; 
+    border-top: 20px solid  blue;
+    border-bottom: 20px solid  blue;
+    font-size: 50px ;
+    text-shadow: 0.03em 0.07em darkblue;
     text-align: center;
 } 
 h2{
@@ -36,7 +38,7 @@ h3{
     
     font-weight:bold;
     font: verdana;
-    color: black;
+    color: white;
     font-size: 18px ;
     text-align: right;
     
@@ -44,13 +46,13 @@ h3{
 .texto{
     border: 2px solid black;
     font-weight:bold;
-    color: darkgreen;
+    color:aquamarine;
     font-size: 35px ;
     text-align: justify;
     background-color: rgba(0,0,0,0.8);
 }
 button{
-    background-color: white;
+    background-color: #1f1f1f;
     border-radius: 15px;
     font-size: 24px;
 }
@@ -60,4 +62,10 @@ button{
   margin-right: auto;
   width: 40%;
 }
+.esquerda{
+    border-collapse: collapse;
+    float: right;
+    text-align: right !important;
+}
+
 

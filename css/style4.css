@@ -42,6 +42,14 @@ h3{
     text-align: right;
     
 }
+.pfim{
+    
+    font-weight:bold;
+    font: verdana;
+    color: white;
+    font-size: 18px ;
+    
+}
 .texto{
     border: 2px solid black;
     font: verdana;
@@ -50,8 +58,14 @@ h3{
     text-align: justify;
 }
 button{
-    background-color: white;
+    background-color: #1f1f1f;
     border-radius: 15px;
     font-size: 24px;
+}
+.esquerda{
+    border-collapse: collapse;
+    float: right;
+    text-align: right !important;
+   
 }
 

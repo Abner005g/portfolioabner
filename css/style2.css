@@ -11,6 +11,7 @@ h1{
     border-top: 20px solid  blue;
     border-bottom: 20px solid  blue;
     font-size: 50px ;
+    text-shadow: 0.03em 0.07em darkblue;
     text-align: center;
 } 
 h2{
@@ -37,9 +38,8 @@ h3{
     
     font-weight:bold;
     font: verdana;
-    color: black;
+    color: white;
     font-size: 18px ;
-    text-align: right;
     
 }
 .texto{
@@ -50,18 +50,12 @@ h3{
     text-align: justify;
 }
 button{
-    background-color: white;
+    background-color: #1f1f1f;
     border-radius: 15px;
     font-size: 24px;
 }
 .esquerda{
     border-collapse: collapse;
-    float: right;
     text-align: right !important;
    
-}
-.centro{
-    border-collapse: collapse;
-    float: center;
-    text-align: center !important;    
 }
