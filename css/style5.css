@@ -9,7 +9,7 @@ h1{
     color: lightsteelblue; 
     border-top: 20px solid rgba(0,0,0,0.5);
     border-bottom: 20px solid rgba(0,0,0,0.5);
-    font-size: 50px ;
+    font-size: 55px ;
     text-shadow: 0.03em 0.05em darkblue;
     background-color: rgba(0,0,0,0.5);
     text-align: center;
@@ -30,8 +30,8 @@ h3{
 .p{
     font-weight:bold;
     font: verdana;
-    color: floralwhite;
-    font-size: 27px ;
+    color: lightskyblue;
+    font-size: 30px ;
     text-align: justify; 
     background-color: rgba(0,0,0,0.2);
 
@@ -48,10 +48,10 @@ h3{
 .texto{
     border: 2px solid black;
     font-weight:bold;
-    color:aquamarine;
-    font-size: 35px ;
+    color:aliceblue;
+    font-size: 22px ;
     text-align: justify;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.2);
 }
 button{
     background-color: #1f1f1f;
@@ -62,7 +62,7 @@ button{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 550px;
 }
 .esquerda{
     border-collapse: collapse;
