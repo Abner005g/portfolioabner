@@ -67,5 +67,9 @@ button{
     float: right;
     text-align: right !important;
 }
-
+button:hover{
+    background-color: #1f1f1f;
+    border-radius: 16px;
+    font-size: 26px;
+}
 
